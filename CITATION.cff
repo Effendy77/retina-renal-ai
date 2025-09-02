@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: retina-renal-ai: Templates for predicting kidney outcomes from fundus photographs
+authors:
+  - family-names: Hashim
+    given-names: Effendy
+version: 0.1.0
+date-released: 2025-09-02
+message: If you use this code, please cite this repository.
