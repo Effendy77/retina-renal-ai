@@ -1,0 +1,11 @@
+image_path,age,sex,egfr,ckd_label,esrd_label
+dummy_data/img_00.png,73,M,105.04507828039578,0,0
+dummy_data/img_01.png,40,F,113.28325229765039,0,0
+dummy_data/img_02.png,41,M,51.488512577211914,1,0
+dummy_data/img_03.png,75,M,81.0311846089658,0,0
+dummy_data/img_04.png,75,F,38.52268384240585,1,0
+dummy_data/img_05.png,62,F,72.64102327886877,0,0
+dummy_data/img_06.png,63,F,51.37843729928029,1,0
+dummy_data/img_07.png,56,F,56.04922065189762,1,0
+dummy_data/img_08.png,72,F,85.58312800607214,0,0
+dummy_data/img_09.png,64,F,41.314617318877225,1,0

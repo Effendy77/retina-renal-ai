@@ -1,0 +1,22 @@
+{
+  "model_name": "retfound_hybrid",
+  "retfound_model_path": "YukunZhou/RETFound_mae_natureCFP",
+  "image_dir": "data/images/",
+  "tabular_csv": "data/metadata/merged_vessel_outcome.csv",
+  "target_column": "esrd_5yr",
+  "tabular_features": [
+    "end_points",
+    "branch_points",
+    "skeleton_length_px",
+    "mean_width_px",
+    "fractal_dim",
+    "egfr",
+    "acr_mg_g",
+    "Age_at_baseline",
+    "Sex_0F_1M"
+  ],
+  "image_size": 224,
+  "batch_size": 32,
+  "epochs": 30,
+  "learning_rate": 0.0001
+}
